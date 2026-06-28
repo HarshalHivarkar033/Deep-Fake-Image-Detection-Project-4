@@ -1,5 +1,3 @@
-# README.md – Deep Fake Detection System (TrueLens)
-
 # TrueLens – AI-Powered Deep Fake Detection System
 
 ## Overview
